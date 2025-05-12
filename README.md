@@ -1,6 +1,5 @@
-# 👨🏾‍💻 Silvestre L.M. Gamba
+# 👨Olá! Seja bem-vindo ao meu perfil no GitHub. 
 
-Olá! Seja bem-vindo ao meu perfil no GitHub.  
 Sou **Silvestre Lissekeivo Manuel Gamba**, educador, pesquisador e estudante de programação.  
 Tenho paixão por aprender, ensinar e desenvolver soluções que unam tecnologia, educação e cultura.
 
