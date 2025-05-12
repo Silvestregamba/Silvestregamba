@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👨🏾‍💻 Silvestre L.M. Gamba
 
-<!--
-**Silvestregamba/Silvestregamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Seja bem-vindo ao meu perfil no GitHub.  
+Sou **Silvestre Lissekeivo Manuel Gamba**, educador, pesquisador e estudante de programação.  
+Tenho paixão por aprender, ensinar e desenvolver soluções que unam tecnologia, educação e cultura.
 
-Here are some ideas to get you started:
+## 🎓 Formação Acadêmica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Licenciatura em Ciências da Educação**  
+  Instituto Superior Politécnico Independente – Lubango (ISPI)
+
+- **Mestrando em História: História Pública**  
+  Universidade Estadual do Paraná (UNESPAR) – Brasil
+
+- **Cursando Programação Web**  
+  Serviço Nacional de Aprendizagem Comercial (SENAC)
+
+- **Curso Básico de Informática**  
+  Serviço Nacional de Aprendizagem Comercial (SENAC)
+
+## 💡 Áreas de Interesse
+
+- Desenvolvimento Web (HTML, CSS, JavaScript, frameworks modernos)
+- História Pública e Educação Patrimonial
+- Formação de Professores e Didática Inovadora
+- Projetos Sociais e Produção de Materiais Educativos
+- Tecnologia e Cultura Digital
+
+> _"Educar é semear com sabedoria e colher com paciência."_  
+> — Silvestre L.M. Gamba
+
